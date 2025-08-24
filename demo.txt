@@ -2,5 +2,3 @@ Hi my name is Ritesh
 
 This is my Assignment 2 - Managing Code with Git & GitHub.
 Now I am editing this file to test Git changes.
-updating to demo.txt
-updating to demo.txt
